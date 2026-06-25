@@ -1,0 +1,68 @@
+{
+  "PNG Image": "89504E470D0A1A0A",
+  "JPEG Image": "FFD8FF",
+  "GIF Image": "47494638",
+  "BMP Image": "424D",
+  "TIFF Image (LE)": "49492A00",
+  "TIFF Image (BE)": "4D4D002A",
+  "WebP Image": "52494646",
+
+  "PDF Document": "25504446",
+  "PostScript Document": "25215053",
+
+  "ZIP Archive": "504B0304",
+  "ZIP Empty Archive": "504B0506",
+  "ZIP Spanned Archive": "504B0708",
+  "RAR Archive v1.5+": "526172211A0700",
+  "RAR Archive v5.0": "526172211A070100",
+  "7-Zip Archive": "377ABCAF271C",
+  "GZIP Archive": "1F8B08",
+  "BZIP2 Archive": "425A68",
+  "XZ Archive": "FD377A585A00",
+  "TAR Archive": "7573746172",
+
+  "MP3 Audio (ID3)": "494433",
+  "MP3 Audio (No ID3)": "FFFB",
+  "WAV Audio": "52494646",
+  "FLAC Audio": "664C6143",
+  "OGG Audio": "4F676753",
+  "AAC Audio": "FFF1",
+  "MIDI Audio": "4D546864",
+
+  "MP4 Video": "00000018667479706D703432",
+  "MKV Video": "1A45DFA3",
+  "AVI Video": "52494646",
+  "FLV Video": "464C56",
+  "MOV Video": "000000146674797071742020",
+
+  "Windows Executable (EXE/DLL)": "4D5A",
+  "Linux ELF Executable": "7F454C46",
+  "Mach-O Executable (32-bit)": "FEEDFACE",
+  "Mach-O Executable (64-bit)": "FEEDFACF",
+  "Java Class File": "CAFEBABE",
+  "Android DEX": "6465780A30333500",
+
+  "ISO Disk Image": "4344303031",
+  "VMware Disk Image": "4B444D",
+  "VirtualBox Disk Image": "3C3C3C20",
+
+  "SQLite Database": "53514C69746520666F726D6174203300",
+  "Microsoft Access Database": "5374616E64617264204A6574204442",
+
+  "OpenType Font": "4F54544F",
+  "TrueType Font": "00010000",
+
+  "Windows Icon": "00000100",
+  "Windows Cursor": "00000200",
+
+  "PEM Certificate": "2D2D2D2D2D424547494E",
+  "DER Certificate": "3082",
+
+  "Shell Script": "2321",
+  "Python Script": "23212F7573722F62696E2F707974686F6E",
+  "PHP Script": "3C3F706870",
+  "HTML Document": "3C21444F43545950452068746D6C",
+
+  "RTF Document": "7B5C727466",
+  "Microsoft OLE Compound File": "D0CF11E0A1B11AE1"
+}
