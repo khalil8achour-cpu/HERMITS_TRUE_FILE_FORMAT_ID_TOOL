@@ -1,3 +1,5 @@
+TRUE_FILE_FORMAT
+--------------------------------------------------------------------------------------------------------------
 if u use the installer (installer.sh) u can write tfformat from any location and it will work... i think hhh.
 and if u use main or tfformat-linux it should work once in the terminal.
 --------------------------------------------------------------------------------------------------------------
