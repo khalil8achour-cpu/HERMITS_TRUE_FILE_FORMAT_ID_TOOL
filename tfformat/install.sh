@@ -1,5 +1,16 @@
 #!/bin/bash
+echo "========================================"
 echo "Installing tfformat..."
-sudo cp dist/tfformat-linux /usr/local/bin/tfformat
+echo "========================================"
+
+# Install the Python script
+sudo cp tfformat/main.py /usr/local/bin/tfformat
 sudo chmod +x /usr/local/bin/tfformat
-echo "✅ Done! Type 'tfformat' anywhere or double-click the executable."
+
+# Install the database
+sudo cp tfformat/magicDB.json /usr/local/bin/
+
+# Make it executable
+sudo chmod +x /usr/local/bin/tfformat
+
+echo "✅ Done! Type 'tfformat' anywhere."
